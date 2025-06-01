@@ -3,13 +3,8 @@
 **TechTalentBridge** is a full-stack web platform developed by **Team Bits 404** to connect emerging tech talent with meaningful opportunities. Designed during a hackathon, this project showcases a clean UI, modern stack, and potential to grow into a scalable job-matching platform.
 
 ## 👨‍💻 Team Members
-- **Team Name**: Bits 404
-- **Hackathon Theme**: Bridging Talent & Opportunities
-- **Role Distribution**:
-  - Frontend/UI: [Mukund]
-  - Backend/API: [Mukund]
-  - Database Integration: [Kuldeep]
-  - Deployment/DevOps: [Mokshith]
+- **Team Name**: Bits - 404
+
 
 ## 💡 Problem Statement
 
